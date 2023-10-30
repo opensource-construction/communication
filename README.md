@@ -27,15 +27,11 @@ https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
 
 ## hackathon
 
-Link to description:
-
 Link to description: [hackathon](descriptions/hackathon.md)
 
 # project facilitation
 
 ## blackboard
-
-Link to description:
 
 Link to description: [blackboard](descriptions/blackboard.md)
 
