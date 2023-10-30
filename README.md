@@ -1,12 +1,13 @@
-# learning resources
-## texts 
-[Thema 1](descriptions/texts.md)
+# communication
+## [texts](descriptions/texts.md)
 > add more texts (from speckle and others)
 > publish snippets on linkedin (focus one term)
 
-# project stories / tech radar
+# project stories 
 description: > objectives / activities / maintenance / responsibility
 
+# general updates to website
+>
 
 Focus on stories with examples first, not pure tech radar
 > two sides: AECO organisations + open source providers
@@ -22,14 +23,7 @@ https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
 # project facilitation
 ## blackboard
 
-Communication
-Tech radar (at least one new entry every month, one tech story every month)
-Project stories (one story every month)
-General updates to website (maintenance like SEO optimisation and content management)
-Events
-Update to planned events
-Outlook to upcoming opportunities
-Project Facilitation
-new project requests, Updates on “Blackboard”
-Budget
-Update to budget and potential new partnerships
+# budget
+> update to budget and potential new partnerships
+
+
