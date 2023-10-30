@@ -1,7 +1,9 @@
-# objectives
+# blackboard
 
-# activities
+## objectives
 
-# maintenance
+## activities
 
-# responsibility
+## maintenance
+
+## responsibility
