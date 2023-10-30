@@ -1,6 +1,7 @@
 # communication
 
-## [texts](descriptions/texts.md)
+## texts
+Link to description: [texts](descriptions/texts.md)
 
 - add more texts (from speckle and others)
 - publish snippets on linkedin (focus one term)
