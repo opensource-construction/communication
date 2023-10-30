@@ -1,7 +1,0 @@
-# objectives
-
-# activities 
-
-# maintenance 
-
-# responsibility
