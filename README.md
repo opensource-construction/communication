@@ -1,7 +1,5 @@
 # communication
 
-tetsst
-
 ## texts
 
 Link to description: [texts](descriptions/texts.md)
