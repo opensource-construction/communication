@@ -1,6 +1,6 @@
 # learning resources
 ## texts 
-[Thema 1](texts.md)
+[Thema 1](descriptions/texts.md)
 > add more texts (from speckle and others)
 > publish snippets on linkedin (focus one term)
 
