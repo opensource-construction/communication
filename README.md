@@ -11,7 +11,6 @@ Link to description: [texts](descriptions/texts.md)
 
 Link to description: [project stories](descriptions/project-stories.md)
 
-description: > objectives / activities / maintenance / responsibility
 Focus on stories with examples first, not pure tech radar
 two sides: AECO organisations + open source providers
 
