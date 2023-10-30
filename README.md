@@ -8,15 +8,15 @@ Link to description: [texts](descriptions/texts.md)
 - publish snippets on linkedin (focus one term)
 
 ## project stories
-Link to description: 
 
-Link to description: [texts](descriptions/project-stories.md)
+Link to description: [project stories](descriptions/project-stories.md)
 
 description: > objectives / activities / maintenance / responsibility
 Focus on stories with examples first, not pure tech radar
 two sides: AECO organisations + open source providers
 
 ### references
+
 https://opensource.zalando.com/tech-radar/
 https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
 
@@ -27,17 +27,18 @@ https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
 # events
 
 ## hackathon
-Link to description: 
 
-Link to description: [texts](descriptions/hackathon.md)
+Link to description:
+
+Link to description: [hackathon](descriptions/hackathon.md)
 
 # project facilitation
 
 ## blackboard
-Link to description: 
 
+Link to description:
 
-Link to description: [texts](descriptions/blackboard.md)
+Link to description: [blackboard](descriptions/blackboard.md)
 
 # budget
 
