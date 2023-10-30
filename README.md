@@ -1,6 +1,7 @@
 # communication
 
 ## texts
+
 Link to description: [texts](descriptions/texts.md)
 
 - add more texts (from speckle and others)
@@ -8,6 +9,8 @@ Link to description: [texts](descriptions/texts.md)
 
 ## project stories
 Link to description: 
+
+Link to description: [texts](descriptions/project-stories.md)
 
 description: > objectives / activities / maintenance / responsibility
 Focus on stories with examples first, not pure tech radar
@@ -26,11 +29,15 @@ https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
 ## hackathon
 Link to description: 
 
+Link to description: [texts](descriptions/hackathon.md)
+
 # project facilitation
 
 ## blackboard
 Link to description: 
 
+
+Link to description: [texts](descriptions/blackboard.md)
 
 # budget
 
