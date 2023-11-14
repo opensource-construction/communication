@@ -1,6 +1,11 @@
 # communication
 
 ## texts
+#### objectives
+
+#### activities
+
+#### maintenance
 
 Link to description: [texts](descriptions/texts.md)
 
