@@ -26,20 +26,19 @@ the goal is to have one new text or project story published every month – on t
 
 
 ### to dos: texts
-Link to description: [texts](descriptions/texts.md)
-
 - add more texts (from speckle and others)
 - publish snippets on linkedin (focus one term)
 
 
 
 ### to dos: project stories
-Link to description: [project stories](descriptions/project-stories.md)
-
-Focus on stories with examples first, not pure tech radar
-two sides: AECO organisations + open source providers
+- update project brief
+- open responses (abstract / phoenix3d / speckle)
+  
 
 ### to dos: links
+- make a list of interesting links
+- define visually attractive way to present links
 
 
 ### ideas: tech radar
@@ -80,6 +79,11 @@ tbd Tech behind circularity
 
 
 # project facilitation
+### objectives
+...
+### activities
+
+### maintenance
 
 ## blackboard
 Link to description: [blackboard](descriptions/blackboard.md)
@@ -89,3 +93,6 @@ Link to description: [blackboard](descriptions/blackboard.md)
 # budget
 
 - update to budget and potential new partnerships
+
+Link to description: [texts](descriptions/texts.md)
+Link to description: [project stories](descriptions/project-stories.md)
