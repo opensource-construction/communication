@@ -1,3 +1,6 @@
+This document outlines the core activities of the os.construction iniative
+
+
 # communication
 
 ### objectives
