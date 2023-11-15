@@ -1,4 +1,8 @@
-This document outlines the core activities of the os.construction iniative
+This document outlines the core activities of the os.construction initiative.
+The activities are clustered in three chapters:
+- communication
+- events
+- project facilitation
 
 
 # communication
