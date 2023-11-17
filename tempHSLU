@@ -1,0 +1,13 @@
+
+## link Miro Board
+https://miro.com/app/board/uXjVNNmO2f0=/?share_link_id=8821131321
+
+
+## prompt ChatGPT
+Act like a tutor and treat me like a complete beginner: I want to extract the number of windows from an IFC file using ifcopenshell. 
+I provide an IFC file and expect a csv file with the results. 
+The csv file should be stored in the same folder as the IFC file. 
+I have no libraries nor a code editor installed yet. 
+Eventually, write the code so I can copy paste it. 
+Tell me how to run the code and how to input the location of the IFC file on mac and on windows. 
+Cluster your response in the three chapters installation, code and execution.
