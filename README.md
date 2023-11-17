@@ -92,6 +92,10 @@ tbd Tech behind circularity
 ### objectives
 ...
 ### activities
+- ask.opensource.construction 
+- blackboard
+- innochecks
+
 
 ### maintenance
 
