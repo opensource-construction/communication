@@ -53,6 +53,7 @@ the goal is to have one new text or project story published every month – on t
 references
 - https://opensource.zalando.com/tech-radar/
 - https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
+- https://airtable.com/appWi0DmmJUsA3mHD/shrqOCpnYNftdDMzR/tblKhB3De2xrqy69s
 - https://stjepanmikulic.notion.site/4fbe033065dc4780b714e45fce57b852?v=9d1d1ff1fa5c45b9b74fab9889299378
 
 
