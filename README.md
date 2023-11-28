@@ -86,12 +86,13 @@ Link to description: [hackathon](descriptions/hackathon.md)
 
 ## community events
 tbd Tech behind circularity
-
+tbd open source & sustainability in Copenhagen (pre-event of the hackathon?)
 
 
 # project facilitation
 ### objectives
-...
+The goal is to 
+
 ### activities
 - ask.opensource.construction 
 - blackboard
