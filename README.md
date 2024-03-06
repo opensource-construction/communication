@@ -24,13 +24,11 @@ we think about further activities
 the goal is to have one new text or project story published every month – on the website and through linkedIn
 
 
-
 ### to dos: texts (Max)
 - perspective > transition to FAQ
 - add more texts (from speckle and others / https://speckle.systems/blog/digital-sustainability/) with FAQ in mind
 - publish snippets on linkedin (focus one term)
 - language: ideal https://www.weglot.com/ 150 bwz. 290 im Jahr /// sonst https://wpml.org/purchase/
-
 
 
 ### to dos: project stories (Lars > Bearbeitung im Januar)
@@ -59,7 +57,11 @@ references
 
 ### to dos: general updates to website
 - add core team
-- define mission of opensource.construction 
+- update structure (more pictures from events / add service section)
+- FAQ (Offerte einholen
+- SEO optimization
+- Impressum
+- Download WhitePaper mit Angaben credentials
 
 
 
@@ -68,20 +70,13 @@ references
 The aim of our events is to give those who design, build and maintain our built environment the opportunity to work with cutting-edge technologies and their developers. We want to achieve a good mix of students and professionals, non-coders and coders. The focus is on cooperation between the participants, breaking down fears of contact and building up the energy that is generated during such a hacker weekend.
 ### activities
 
-### maintenance
-
 ## hackathon
 
-02.-04.2024 Hackathon Zurich 
-
+07.-09.2025 Hackathon Zurich 
 Link to description: [hackathon](descriptions/hackathon.md)
 
-05.03.2024 Hackathon Copenhagen
-
 ## lectures
-- 19.11. HSLU
-- 23.11. DinaCON
-- 15.12. FHNW
+- 19.04. HSLU
 - tbd Universität Liechtenstein
 
 ## community events
@@ -91,7 +86,7 @@ tbd open source & sustainability in Copenhagen (pre-event of the hackathon?)
 
 # project facilitation
 ### objectives
-The goal is to 
+We make open collaboration successful
 
 ### activities
 - ask.opensource.construction 
@@ -103,8 +98,6 @@ The goal is to
 
 ## blackboard
 Link to description: [blackboard](descriptions/blackboard.md)
-
-## innocheck BFH
 
 # budget
 
