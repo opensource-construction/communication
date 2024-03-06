@@ -4,8 +4,11 @@ The activities are clustered in three chapters:
 - events
 - project facilitation
 
-# Goals 2024
-
+# Goals 2024
+- established as innovation hub
+- modus operandi for local chapters defined and tested
+- funds raised to allow for maintenance of website, aperos and little research commitments
+- corporate partners onboarded
 
 # communication
 
@@ -25,15 +28,16 @@ we think about further activities
 ### maintenance
 the goal is to have one new text or project story published every month – on the website and through linkedIn
 
+### project FAQ
 
-### to dos: texts (Max)
+### project texts (Max)
 - perspective > transition to FAQ
 - add more texts (from speckle and others / https://speckle.systems/blog/digital-sustainability/) with FAQ in mind
 - publish snippets on linkedin (focus one term)
 - language: ideal https://www.weglot.com/ 150 bwz. 290 im Jahr /// sonst https://wpml.org/purchase/
 
 
-### to dos: project stories (Lars > Bearbeitung im Januar)
+### project stories (Lars > Bearbeitung im Januar)
 - simple coda structure to collect organisations and technology which is used (View 1: Organisationen (mit welcher Tech arbeiten sie?) / View 2: Technology solutions (welche Organisationen arbeiten mit der Technologie?)
 - entry organisation: name of organisation / website / contact person (mail) / tools they use / one description field (max.2000 / three guiding questions: motivation / three key take aways from working with open source solutions)
 - entry tool: name of organisation / website / contact person (mail) / problem they adress / one description field (max.2000 / three guiding questions: problem adressed / licence model / about the team)
