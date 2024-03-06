@@ -4,6 +4,8 @@ The activities are clustered in three chapters:
 - events
 - project facilitation
 
+# Goals 2024
+
 
 # communication
 
@@ -76,7 +78,9 @@ The aim of our events is to give those who design, build and maintain our built 
 Link to description: [hackathon](descriptions/hackathon.md)
 
 ## lectures
-- 19.04. HSLU
+- 07.03. session light+building Frankfurt
+- 08.04. construction summit Hamburg
+- 19.04. Input HSLU
 - tbd Universität Liechtenstein
 
 ## community events
