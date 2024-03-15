@@ -123,18 +123,20 @@ Link to description: [hackathon](descriptions/hackathon.md)
 - tbd Universität Liechtenstein
 
 ## community events
-tbd Tech behind circularity
-tbd open source & sustainability in Copenhagen (pre-event of the hackathon?)
+Copenhagen:
+> open source & sustainability 
 
+London:
+> Intro event with Foundation (making open collaboration successful) & Organisation OSPO (os pyramid > open source, inner source, closed source) & Hypar (why open source)
+> Hackathon?
+> sponsorship by Genssler: list of arguments (saving costs on maintenance / attracting talent / os.c as platform to take the first steps and get visibility by doing so)
 
 # project facilitation
 ### objectives
-We make open collaboration successful
+Making open collaboration successful
 
 ### activities
-- ask.opensource.construction 
-- blackboard
-- innochecks
+- identify / align / 
 
 
 ### maintenance
