@@ -13,11 +13,11 @@ The activities are clustered in three chapters:
 ### exposure 
 - number of followers (today 1'200 on linkedin & 450 on email list >>> 3'000 on linkedin & 1'000 on email list)
 - funds raised to allow for maintenance of website, templates and other research commitments >>> membership structure established
+- membership structure established
 
 ### facilitation
 - number of bootcamps & clusters (5)
 - 3 templates for existing projects on opensource.construction github live and maintained
-
 
 # communication
 
