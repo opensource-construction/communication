@@ -37,6 +37,10 @@ we think about further activities
 ### maintenance
 the goal is to have one new text or project story published every month – open call and on the website and through linkedIn
 
+### project "foundation"
+- https://livablesoftware.com/study-open-source-foundations/
+
+
 ### project "Linkedin"
 - we use personal accounts for posts and repost with os.construction account
 - templates for posts (visuals) develop over time
