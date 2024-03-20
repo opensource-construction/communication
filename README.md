@@ -8,12 +8,13 @@ The activities are clustered in three chapters:
 ### deliverables
 - number of project stories published (6) / online meet ups (linking individuals with existing projects)
 - local chapter: one event in each country (Denmark / Germany / UK)
-- monthly core team calls established (operational) (wednesday 09:00 - 10:00, first w in month)
+- membership structure established (individual 99, basic , gold, platinum)
+- 50 paying members in 2024 
+- funds raised to allow for 20% FTE, maintenance of website, templates and other research commitments
 
 ### exposure 
 - number of followers (today 1'200 on linkedin & 450 on email list >>> 3'000 on linkedin & 1'000 on email list)
-- funds raised to allow for maintenance of website, templates and other research commitments >>> membership structure established
-- membership structure established
+- website hits: xxx
 
 ### facilitation
 - number of bootcamps & clusters (5)
@@ -60,17 +61,15 @@ https://docs.google.com/document/d/1jDg9FZw5zTEpOzjjWpPd0i4izGALYIJKuyGYE_RFfHo/
 > involving further actors: BuildingSmart / AIT 
 
 ### project "FAQ" (Thorben)
-> mark down
+> mark down file to collect content
+> reference: https://openjsf.org/about
 ## to dos: links
 - make a list of interesting links
 - define visually attractive way to present links
 - next step: 1. collect open questions 2.answering individually
 
-### project "texts" (Max)
-- perspective > transition to FAQ
-- add more texts (from speckle and others / https://speckle.systems/blog/digital-sustainability/) with FAQ in mind
-- publish snippets on linkedin (focus one term)
-- language: ideal https://www.weglot.com/ 150 bwz. 290 im Jahr /// sonst https://wpml.org/purchase/
+### project "collaboration profile" (Max)
+
 
 
 ### project "stories" (Lukas F.)
@@ -83,7 +82,6 @@ https://docs.google.com/document/d/1jDg9FZw5zTEpOzjjWpPd0i4izGALYIJKuyGYE_RFfHo/
 - open responses (abstract / phoenix3d / speckle)
 - old project brief: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit#heading=h.5e60ddgpw6zy
   
-### project 
 
 ### ideas: tech radar
 references
@@ -93,14 +91,15 @@ references
 - https://stjepanmikulic.notion.site/4fbe033065dc4780b714e45fce57b852?v=9d1d1ff1fa5c45b9b74fab9889299378
 
 
+
 ### to dos: general updates to website
 - add core team
+- adapt registration for courses
 - update structure (more pictures from events / add service section)
-- FAQ (Offerte einholen
+- FAQ (Offerte einholen)
 - SEO optimization
-- Impressum
 - Download WhitePaper mit Angaben credentials
-
+- language: ideal https://www.weglot.com/ 150 bwz. 290 im Jahr /// sonst https://wpml.org/purchase/
 
 
 # events
@@ -128,7 +127,8 @@ Link to description: [hackathon](descriptions/hackathon.md)
 
 ## community events
 Copenhagen:
-> open source & sustainability 
+> open source & sustainability
+> OKNF / architecture office / Victor (SHL) / AI and open source (Stjepjan) / openBIM university guy (too nerdy?)
 
 London:
 > Intro event with Foundation (making open collaboration successful) & Organisation OSPO (os pyramid > open source, inner source, closed source) & Hypar (why open source)
@@ -140,7 +140,6 @@ London:
 Making open collaboration successful
 
 ### activities
-- identify / align / 
 
 
 ### maintenance
