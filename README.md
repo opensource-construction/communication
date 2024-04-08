@@ -1,8 +1,8 @@
 This document outlines the core activities of the os.construction initiative.
 The activities are clustered in three chapters:
-- communication
-- events
-- project facilitation
+- communication & events
+- projects
+- resources
 
 # Goals 2024
 ### deliverables
@@ -40,7 +40,8 @@ the goal is to have one new text or project story published every month – open
 
 ### project "foundation"
 - https://livablesoftware.com/study-open-source-foundations/
-
+- legal entity
+- budget plan
 
 ### project "Linkedin"
 - we use personal accounts for posts and repost with os.construction account
@@ -63,6 +64,7 @@ https://docs.google.com/document/d/1jDg9FZw5zTEpOzjjWpPd0i4izGALYIJKuyGYE_RFfHo/
 ### project "FAQ" (Thorben)
 > mark down file to collect content
 > reference: https://openjsf.org/about
+
 ## to dos: links
 - make a list of interesting links
 - define visually attractive way to present links
@@ -126,7 +128,7 @@ Link to description: [hackathon](descriptions/hackathon.md)
 - tbd Universität Liechtenstein
 
 ## community events
-Copenhagen:
+Copenhagen 23.04.24:
 > open source & sustainability
 > OKNF / architecture office / Victor (SHL) / AI and open source (Stjepjan) / openBIM university guy (too nerdy?)
 
