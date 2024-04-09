@@ -17,6 +17,10 @@ Interesting read: https://livablesoftware.com/study-open-source-foundations/
 - membership fees
 - budget
 
+
+<img width="948" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/27af9ed3-d77d-435d-9f1a-91d9b551e14f">
+
+
 ### Goals 2024
 See googleDoc: https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing
 
@@ -55,43 +59,61 @@ We regularly post new case studies of successful collaborations or stories about
 - open responses (abstract / phoenix3d / speckle)
 - old project brief: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit#heading=h.5e60ddgpw6zy
 
+
+## project "Linkedin"
+### about
+We use personal accounts for posts and repost with os.construction account
+### deliverables
+- templates for posts (visuals) are here: square format: https://docs.google.com/presentation/d/1QZqH00aaAu7DimYwyfFXyPrX21sWWuujB9WhwaH4UVs/edit?usp=sharing
+### to dos
+- who wants to be an admin?
+
+# Resources
+## project "templates" (Yashar)
+### about
+
+### deliverables
+- CI/CD, unit testing, how to use git
+- notebook with compas and sample project
+- monetization > service for integration into individual tech stacks
+### to dos
+- define templates (speckle, thatopencompany, compas)
+- updates? done by the maintainer of the template
+- support? github issues
+
 ## project "Data Management for AEC Professionals" (Max)
 ### about
 Data is becoming more and more important in our professional lives. At the same time, most practitioners in the AECO industry do not have a background in data or software engineering. To give people a help for a better understanding, we bring together the most relevant concepts of data management and enrich it with practical tips from industry experts.
 The project can grow over time by continously adding examples and practical tips.
 https://docs.google.com/document/d/1jDg9FZw5zTEpOzjjWpPd0i4izGALYIJKuyGYE_RFfHo/edit?usp=sharing
 ### deliverables
-- setup github page for publication
+- github page for publication
+- sup pages with practical tips / examples
+### to dos
+- setup github page for testing
 - onboard more contributors
 - define publication date
 
-## project "Linkedin"
+# Trainings (Christian)
 ### about
-We use personal accounts for posts and repost with os.construction account
+We offer people from the community the possibility to publish their training offers on our website. 
+Trainings have to be related to openly available tools.
+People can use our templates to build and publish their courses or simply link to their own infrastructure.
 ### deliverables
-- templates for posts (visuals) are here
-- > square format: https://docs.google.com/presentation/d/1QZqH00aaAu7DimYwyfFXyPrX21sWWuujB9WhwaH4UVs/edit?usp=sharing
+- feature on website to publish trainings
+- template for advertising a training (#landing page)
+- template for building the course
+### to dos
+- ...
 
-# project "templates" (Yashar)
+
+# Projects (tbd)
 ### about
-
-### deliverables
-- CI/CD, unit testing, how to use git
-- notebook with compas and sample project
-- updates? done by the maintainer of the template
-- support? github issues
-- monetization > service for integration into individual tech stacks
-next steps:
-- define templates (speckle, thatopencompany, compas
-
-# project "trainings" (Christian)
-### about
-We offer 
+We foster open source and innovation by highlighting existing open source solutions in the AECO space and functioning as a launch pad to build new solutions and communities.
 
 ### deliverables
-
-# project "projects" (tbd)
-### about
+- feature on website to publish projects.
+### to dos
 
 
 ### ideas: tech radar
