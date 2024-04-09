@@ -133,18 +133,22 @@ The aim of our events is to give those who design, build and maintain our built 
 We want to achieve a good mix of AECO professionals and others, non-coders and coders. 
 We want to adress the needs of decision makers and non-digital people.
 
-## hackathon Zurich
+## hackathon Zurich (Max)
 07.-09.2025 Hackathon Zurich 
 Link to description: [hackathon](descriptions/hackathon.md)
+### to dos
+- define pre event (Workshops?)
+- invite speaker
 
-
-## hackathon Munich
+## hackathon Munich (Yashar)
 > potential collaboration with TUM (Yashar)
 - credit points for students
 - collaboration with TU Dresden, Berlin, Uni Stuttgart
 - focus on Symposium / focus on entire event
 - our role: creating awareness for open source / growth hacking for opensource.construction
-
+### to dos
+- define date
+- define input from os.construction
 
 ## lectures
 - 07.03. session light+building Frankfurt
@@ -153,31 +157,15 @@ Link to description: [hackathon](descriptions/hackathon.md)
 - Webinar Bimondis
 - tbd Universität Liechtenstein
 
-## community events
-Copenhagen 23.04.24:
-> open source & sustainability
-> OKNF / architecture office / Victor (SHL) / AI and open source (Stjepjan) / openBIM university guy (too nerdy?)
+## community event Copenhagen 23.04.24 (Christian)
+### about
+Topic: open source & sustainability (https://www.opensource.construction/events/open-source-in-aec-copenhagen-event/)
+### to dos
+- do we want to specifically invite people to talk with them about os.construction?
 
-London:
-> Intro event with Foundation (making open collaboration successful) & Organisation OSPO (os pyramid > open source, inner source, closed source) & Hypar (why open source)
-> Hackathon?
-> sponsorship by Genssler: list of arguments (saving costs on maintenance / attracting talent / os.c as platform to take the first steps and get visibility by doing so)
-
-# project facilitation
-### objectives
-Making open collaboration successful
-
-### activities
-
-
-### maintenance
-
-## blackboard
-Link to description: [blackboard](descriptions/blackboard.md)
-
-# budget
-
-- update to budget and potential new partnerships
-
-Link to description: [texts](descriptions/texts.md)
-Link to description: [project stories](descriptions/project-stories.md)
+## community event London (Karim)
+### about
+- Intro event with Foundation (making open collaboration successful) & Organisation OSPO (os pyramid > open source, inner source, closed source) & Hypar (why open source)
+- Hackathon?
+### to dos
+- sponsorship by Genssler: list of arguments (saving costs on maintenance / attracting talent / os.c as platform to take the first steps and get visibility by doing so)
