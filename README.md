@@ -17,7 +17,8 @@ Interesting read: https://livablesoftware.com/study-open-source-foundations/
 - membership fees
 - budget
 
-
+### to dos:
+- discuss membership structure:
 <img width="948" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/27af9ed3-d77d-435d-9f1a-91d9b551e14f">
 
 
@@ -110,11 +111,13 @@ People can use our templates to build and publish their courses or simply link t
 # Projects (tbd)
 ### about
 We foster open source and innovation by highlighting existing open source solutions in the AECO space and functioning as a launch pad to build new solutions and communities.
+<img width="951" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/73ad276a-c266-4e02-9f80-4eb39a92b9ff">
 
 ### deliverables
-- feature on website to publish projects.
+- feature on website to publish projects
 ### to dos
-
+- prototyping feature for website
+- discuss project template: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit?usp=sharing
 
 ### ideas: tech radar
 references
@@ -125,14 +128,17 @@ references
 
 
 # events
-### objectives
-The aim of our events is to give those who design, build and maintain our built environment the opportunity to work with cutting-edge technologies and their developers. We want to achieve a good mix of students and professionals, non-coders and coders. The focus is on cooperation between the participants, breaking down fears of contact and building up the energy that is generated during such a hacker weekend.
-### activities
+### about
+The aim of our events is to give those who design, build and maintain our built environment the opportunity to work with cutting-edge technologies and their developers. 
+We want to achieve a good mix of AECO professionals and others, non-coders and coders. 
+We want to adress the needs of decision makers and non-digital people.
 
-## hackathon
+## hackathon Zurich
 07.-09.2025 Hackathon Zurich 
 Link to description: [hackathon](descriptions/hackathon.md)
 
+
+## hackathon Munich
 > potential collaboration with TUM (Yashar)
 - credit points for students
 - collaboration with TU Dresden, Berlin, Uni Stuttgart
