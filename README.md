@@ -15,6 +15,7 @@ Interesting read: https://livablesoftware.com/study-open-source-foundations/
 - statutes
 - roles
 - membership fees
+- CRM
 - budget
 
 ### to dos:
