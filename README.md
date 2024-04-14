@@ -2,7 +2,13 @@ This document outlines the core activities of the os.construction initiative.
 
 We organise our activities as projects and track the progress with this document.
 
-# Foundation
+Content overview:
+Purpose and Objectives
+Organisation
+Website and social media
+Trainings
+
+# Purpose and Objectives
 ### about
 our mission: making open collaboration successful
 
@@ -25,6 +31,8 @@ Interesting read: https://livablesoftware.com/study-open-source-foundations/
 
 ### Goals 2024
 See googleDoc: https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing
+
+
 
 
 
