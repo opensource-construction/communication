@@ -2,11 +2,7 @@ This document outlines the core activities of the os.construction initiative.
 
 We organise our activities as projects and track the progress with this document.
 
-Content overview:
-Purpose and Objectives
-Organisation
-Website and social media
-Trainings
+
 
 # Purpose and Objectives
 / about
