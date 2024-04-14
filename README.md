@@ -170,12 +170,6 @@ Link to description: [hackathon](descriptions/hackathon.md)
 - define date
 - define input from os.construction
 
-## lectures
-- 07.03. session light+building Frankfurt
-- 08.04. construction summit Hamburg
-- 19.04. Input HSLU
-- Webinar Bimondis
-- tbd Universität Liechtenstein
 
 ## community event Copenhagen 23.04.24 (Christian)
 / about
