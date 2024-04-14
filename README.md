@@ -9,7 +9,8 @@ Website and social media
 Trainings
 
 # Purpose and Objectives
-### about
+/ about
+
 our mission: making open collaboration successful
 
 opensource.construction creates a center of gravity for open source projects and open collaboration in the real estate & construction industry.
@@ -17,7 +18,7 @@ The association operates as a non-profit organisation based in Switzerland.
 
 Interesting read: https://livablesoftware.com/study-open-source-foundations/
 
-### deliverables
+/ deliverables
 - statutes
 - roles
 - membership fees
