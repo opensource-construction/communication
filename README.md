@@ -145,7 +145,7 @@ references
 - https://stjepanmikulic.notion.site/4fbe033065dc4780b714e45fce57b852?v=9d1d1ff1fa5c45b9b74fab9889299378
 
 
-# events
+# Events
 / about
 The aim of our events is to give those who design, build and maintain our built environment the opportunity to work with cutting-edge technologies and their developers. 
 We want to achieve a good mix of AECO professionals and others, non-coders and coders. 
