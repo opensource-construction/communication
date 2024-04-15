@@ -30,6 +30,13 @@ Interesting read: https://livablesoftware.com/study-open-source-foundations/
 See googleDoc: https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing
 
 # Website and social media
+## infrastructure
+markdownfiles + tailwindcss / next.ui 
+
+hubspot as CRM
+
+podia as platform for training
+
 ## project "FAQ" (Thorben)
 / about
 We clarify the basics of OS by answering the most relevant questions in a FAQ
@@ -41,6 +48,28 @@ We clarify the basics of OS by answering the most relevant questions in a FAQ
 / to dos:
 - mark down file to collect content on GitHub (due date: 
 - prototyping feature
+
+## projects "Marketplace" (tbd)
+/ about
+We foster open source and innovation by highlighting existing open source solutions in the AECO space and functioning as a launch pad to build new solutions and communities.
+
+Not the core team of os.construction will setup the marketplace. Ideally, projects do this themselves. Projects either reach out or are approached by members of os.construction – either way, people fill out (and update) the project's card by themselve.
+
+<img width="951" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/73ad276a-c266-4e02-9f80-4eb39a92b9ff">
+
+/ deliverables
+- feature on website to publish projects
+  
+/ to dos
+- prototyping feature for website
+- discuss project template: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit?usp=sharing
+
+/ ideas: tech radar
+references
+- https://opensource.zalando.com/tech-radar/
+- https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
+- https://airtable.com/appWi0DmmJUsA3mHD/shrqOCpnYNftdDMzR/tblKhB3De2xrqy69s
+- https://stjepanmikulic.notion.site/4fbe033065dc4780b714e45fce57b852?v=9d1d1ff1fa5c45b9b74fab9889299378
 
 ## project "case studies" (Lukas F.)
 / about
@@ -65,6 +94,11 @@ We regularly post new case studies of successful collaborations or stories about
 - idea: short video to introduce people (only one question: introduction + motivation)
 - open responses (abstract / phoenix3d / speckle)
 - old project brief: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit#heading=h.5e60ddgpw6zy
+
+## project "Forum"
+discord
+
+later potential integration with osarch
 
 
 ## project "Linkedin"
@@ -119,30 +153,6 @@ People can use our templates to build and publish their courses or simply link t
   
 / to dos
 - ...
-
-
-# Projects (tbd)
-/ about
-We foster open source and innovation by highlighting existing open source solutions in the AECO space and functioning as a launch pad to build new solutions and communities.
-
-Not the core team of os.construction will setup the marketplace. Ideally, projects do this themselves. Projects either reach out or are approached by members of os.construction – either way, people fill out (and update) the project's card by themselve.
-
-<img width="951" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/73ad276a-c266-4e02-9f80-4eb39a92b9ff">
-
-/ deliverables
-- feature on website to publish projects
-  
-/ to dos
-- prototyping feature for website
-- discuss project template: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit?usp=sharing
-
-/ ideas: tech radar
-references
-- https://opensource.zalando.com/tech-radar/
-- https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
-- https://airtable.com/appWi0DmmJUsA3mHD/shrqOCpnYNftdDMzR/tblKhB3De2xrqy69s
-- https://stjepanmikulic.notion.site/4fbe033065dc4780b714e45fce57b852?v=9d1d1ff1fa5c45b9b74fab9889299378
-
 
 # Events
 / about
