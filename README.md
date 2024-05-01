@@ -23,9 +23,10 @@ Interesting read: https://livablesoftware.com/study-open-source-foundations/
 ## infrastructure
 markdownfiles + tailwindcss / next.ui 
 podia as platform for trainings
+
 / to dos:
 - decide on CRM (hubspot / brolio / espocrm) we need the CRM primarily to manage member details (form to collect them on the website / database to store them / automatically push them to the accounting software for the bills)
-- 
+- decide on mailing tool for newsletter and event invitations etc.
 
 ## project "FAQ" (Thorben)
 / about
