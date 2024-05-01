@@ -1,41 +1,31 @@
 This document outlines the core activities of the os.construction initiative.
-
 We organise our activities as projects and track the progress with this document.
-
-
 
 # Purpose and Objectives
 / about
 
 our mission: making open collaboration successful
-
 opensource.construction creates a center of gravity for open source projects and open collaboration in the real estate & construction industry.
 The association operates as a non-profit organisation based in Switzerland.
 
 Interesting read: https://livablesoftware.com/study-open-source-foundations/
 
-/ deliverables
-- statutes
-- roles
-- membership fees
-- CRM
-- budget
+- articles of association: https://docs.google.com/document/d/1UamtQT_kdJw8dpVL8KdGo68N8J9aUw5-YeUdoycs-x8/edit?usp=sharing
+- membership structure: https://docs.google.com/document/d/1yi3IwRXliIo3XRhAjbUeyB6hWEDdo5P-HP_BXKdpzI0/edit?usp=sharing
+- budget: https://docs.google.com/spreadsheets/d/1FLE5IJShy1R6oxAP0LFlyHuLixC5Y49yaUELPR1nxqw/edit?usp=sharing
 
 / to dos:
-- discuss membership structure:
-<img width="948" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/27af9ed3-d77d-435d-9f1a-91d9b551e14f">
-
-
-/ Goals 2024
-See googleDoc: https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing
+- roles
+- goals 2024: https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing
+- update manifesto
 
 # Website and social media
 ## infrastructure
 markdownfiles + tailwindcss / next.ui 
-
-hubspot as CRM
-
-podia as platform for training
+podia as platform for trainings
+/ to dos:
+- decide on CRM (hubspot / brolio / espocrm) we need the CRM primarily to manage member details (form to collect them on the website / database to store them / automatically push them to the accounting software for the bills)
+- 
 
 ## project "FAQ" (Thorben)
 / about
