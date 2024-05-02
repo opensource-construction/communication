@@ -48,11 +48,11 @@ We clarify the basics of OS by answering the most relevant questions in a FAQ
 - mark down file to collect content on GitHub (due date: 
 - prototyping feature
 
-## projects "Marketplace" (tbd)
+## projects "Marketplace" (Karim)
 / about
 We foster open source and innovation by highlighting existing open source solutions in the AECO space and functioning as a launch pad to build new solutions and communities.
 
-Not the core team of os.construction will setup the marketplace. Ideally, projects do this themselves. Projects either reach out or are approached by members of os.construction – either way, people fill out (and update) the project's card by themselve.
+Not the core team of os.construction will setup the content in the marketplace. Ideally, projects do this themselves. Projects either reach out or are approached by members of os.construction – either way, people fill out (and update) the project's card by themselve.
 
 <img width="951" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/73ad276a-c266-4e02-9f80-4eb39a92b9ff">
 
