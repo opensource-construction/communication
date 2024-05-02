@@ -14,8 +14,16 @@ Interesting read: https://livablesoftware.com/study-open-source-foundations/
 - membership structure: https://docs.google.com/document/d/1yi3IwRXliIo3XRhAjbUeyB6hWEDdo5P-HP_BXKdpzI0/edit?usp=sharing
 - budget: https://docs.google.com/spreadsheets/d/1FLE5IJShy1R6oxAP0LFlyHuLixC5Y49yaUELPR1nxqw/edit?usp=sharing
 
+roles:
+- managing director: Maximilian Vomhof
+- lead website: Thorben Westerhuys
+- lead trainings: Christian Kongsgaard
+- lead marketplace: Karim Daw
+- lead stories: Lukas Fuhrimann
+- lead resources: Yashar Moradi
+
+
 / to dos:
-- roles
 - goals 2024: https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing
 - update manifesto
 
