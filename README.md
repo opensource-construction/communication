@@ -33,8 +33,8 @@ VISIBILITY & CREATING AWARENESS FOR OS
 - events (framing: Hackathon Munich / Poland, full programm: Zurich)
 
 Infrastructure:
-> bank account & opencollective up and running
-> fundings collected to compensate administration and infrastructure (around CHF 20'000)
+- bank account & opencollective up and running
+- fundings collected to compensate administration and infrastructure (around CHF 20'000 for 2024)
 
 / to dos:
 - update manifesto
