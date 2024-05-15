@@ -108,10 +108,10 @@ We regularly post new case studies of successful collaborations or stories about
 ## project "Newsletter" (Lukas)
 / about
 we communicate once a month about:
-> Events (recap / preview)
-> Case Studies / Community Calls / new projects / new trainings
-> updates from os scene in AECO
-> updates from os scene in general
+- Events (recap / preview)
+- Case Studies / Community Calls / new projects / new trainings
+- updates from os scene in AECO
+- updates from os scene in general
 
 / deliverables
 - template
