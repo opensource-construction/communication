@@ -41,9 +41,9 @@ Infrastructure:
 
 # Website and social media
 ## infrastructure
-markdownfiles + tailwindcss / next.ui 
-podia as platform for trainings
-15.05.2024: no CRM tool but setup from Yashar > database to collect data from members / supporters and classify them into different categories
+- markdownfiles + tailwindcss / next.ui 
+- podia as platform for trainings
+- 15.05.2024: no CRM tool but setup from Yashar > database to collect data from members / supporters and classify them into different categories
 
 / to dos:
 - decide on CRM (hubspot / brolio / espocrm) we need the CRM primarily to manage member details (form to collect them on the website / database to store them / automatically push them to the accounting software for the bills)
