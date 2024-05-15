@@ -10,9 +10,11 @@ The association operates as a non-profit organisation based in Switzerland.
 
 Interesting read: https://livablesoftware.com/study-open-source-foundations/
 
-- articles of association: https://docs.google.com/document/d/1UamtQT_kdJw8dpVL8KdGo68N8J9aUw5-YeUdoycs-x8/edit?usp=sharing
-- membership structure: https://docs.google.com/document/d/1yi3IwRXliIo3XRhAjbUeyB6hWEDdo5P-HP_BXKdpzI0/edit?usp=sharing
-- budget: https://docs.google.com/spreadsheets/d/1FLE5IJShy1R6oxAP0LFlyHuLixC5Y49yaUELPR1nxqw/edit?usp=sharing
+- [articles of association](https://docs.google.com/document/d/1UamtQT_kdJw8dpVL8KdGo68N8J9aUw5-YeUdoycs-x8/edit?usp=sharing)
+- [membership structure ](https://docs.google.com/document/d/1yi3IwRXliIo3XRhAjbUeyB6hWEDdo5P-HP_BXKdpzI0/edit?usp=sharing)
+- [budget](https://docs.google.com/spreadsheets/d/1FLE5IJShy1R6oxAP0LFlyHuLixC5Y49yaUELPR1nxqw/edit?usp=sharing)
+- [templates for linkedin posts (visuals)](https://docs.google.com/presentation/d/1QZqH00aaAu7DimYwyfFXyPrX21sWWuujB9WhwaH4UVs/edit?usp=sharing)
+- [public presentation](https://docs.google.com/presentation/d/1yDuMRsMUsjt8ipMycMjsSvxfEuBayxbE7GjMtXEr5iU/edit?usp=sharing)
 
 roles:
 - managing director: Maximilian Vomhof
@@ -30,15 +32,18 @@ VISIBILITY & CREATING AWARENESS FOR OS
 > community meet-ups (ifc openshell / onboarding Open Digital House?)
 > events (framing: Hackathon Munich / Poland, full programm: Zurich)
 
+Infrastructure:
+> bank account & opencollective up and running
+> fundings collected to compensate administration and infrastructure (around CHF 20'000)
 
 / to dos:
-- [goals 2024](https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing): https://docs.google.com/document/d/1KXtEHuMqt83hwGbfEepaKjqUJ2nVPpTgJ12C27zbcaw/edit?usp=sharing
 - update manifesto
 
 # Website and social media
 ## infrastructure
 markdownfiles + tailwindcss / next.ui 
 podia as platform for trainings
+15.05.2024: no CRM tool but setup from Yashar > database to collect data from members / supporters and classify them into different categories
 
 / to dos:
 - decide on CRM (hubspot / brolio / espocrm) we need the CRM primarily to manage member details (form to collect them on the website / database to store them / automatically push them to the accounting software for the bills)
@@ -62,6 +67,8 @@ We foster open source and innovation by highlighting existing open source soluti
 
 Not the core team of os.construction will setup the content in the marketplace. Ideally, projects do this themselves. Projects either reach out or are approached by members of os.construction – either way, people fill out (and update) the project's card by themselve.
 
+Early stage projects should also provide a simple "hello world" document (e.g. readme in their repo + reference template) to facilitate onboarding of new users. Can also be a description in notion / medium or anything else
+
 <img width="951" alt="image" src="https://github.com/opensource-construction/organisation/assets/126971887/73ad276a-c266-4e02-9f80-4eb39a92b9ff">
 
 / deliverables
@@ -69,14 +76,9 @@ Not the core team of os.construction will setup the content in the marketplace. 
   
 / to dos
 - prototyping feature for website
-- discuss project template: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit?usp=sharing
+- setting up a list for existing and potential projects, that we can use to coordinate our efforts
+- improve [project template](https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit?usp=sharing) with description of requirements and the tech process to provide information (manually with markdown template on GH or automated by providing a "special link"
 
-/ ideas: tech radar
-references
-- https://opensource.zalando.com/tech-radar/
-- https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory
-- https://airtable.com/appWi0DmmJUsA3mHD/shrqOCpnYNftdDMzR/tblKhB3De2xrqy69s
-- https://stjepanmikulic.notion.site/4fbe033065dc4780b714e45fce57b852?v=9d1d1ff1fa5c45b9b74fab9889299378
 
 ## project "case studies" (Lukas F.)
 / about
@@ -99,24 +101,24 @@ We regularly post new case studies of successful collaborations or stories about
 - entry tool: name of organisation / website / contact person (mail) / problem they adress / one description field (max.2000 / three guiding questions: problem adressed / licence model / about the team)
 - vision: case studies with interviews and videos, project based financing
 - idea: short video to introduce people (only one question: introduction + motivation)
-- open responses (abstract / phoenix3d / speckle)
 - old project brief: https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit#heading=h.5e60ddgpw6zy
 
-## project "Forum"
-discord
-
-later potential integration with osarch
 
 
-## project "Linkedin"
+## project "Newsletter" (Lukas)
 / about
-We use personal accounts for posts and repost with os.construction account
+we communicate once a month about:
+> Events (recap / preview)
+> Case Studies / Community Calls / new projects / new trainings
+> updates from os scene in AECO
+> updates from os scene in general
 
 / deliverables
-- templates for posts (visuals) are here: square format: https://docs.google.com/presentation/d/1QZqH00aaAu7DimYwyfFXyPrX21sWWuujB9WhwaH4UVs/edit?usp=sharing
+- template
   
 / to dos
-- who wants to be an admin?
+- what tool to use to send out the mails'
+- markdown file, published on website, used as template for mails, copy paste newsletter linkedin
 
 # Resources
 ## project "templates" (Yashar)
@@ -172,8 +174,10 @@ We want to adress the needs of decision makers and non-digital people.
 Link to description: [hackathon](descriptions/hackathon.md)
 
 / to dos
+- start communications after summer break
 - define pre event (Workshops?)
 - invite speaker
+- organise sponsors
 
 ## hackathon Munich (Yashar)
 > potential collaboration with TUM (Yashar)
@@ -186,18 +190,11 @@ Link to description: [hackathon](descriptions/hackathon.md)
 - define date
 - define input from os.construction
 
-
-## community event Copenhagen 23.04.24 (Christian)
-/ about
-Topic: open source & sustainability (https://www.opensource.construction/events/open-source-in-aec-copenhagen-event/)
-
-/ to dos
-- do we want to specifically invite people to talk with them about os.construction?
-
 ## community event London (Karim)
 / about
 - Intro event with Foundation (making open collaboration successful) & Organisation OSPO (os pyramid > open source, inner source, closed source) & Hypar (why open source)
-- Hackathon?
-  
+- topic: why sharing?
+
 / to dos
+- setup document to outline the event (topic, agenda) to organise location and approach community
 - sponsorship by Genssler: list of arguments (saving costs on maintenance / attracting talent / os.c as platform to take the first steps and get visibility by doing so)
