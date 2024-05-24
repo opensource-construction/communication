@@ -41,6 +41,8 @@ Infrastructure:
 
 # Website and social media
 ## infrastructure
+- AWS non-profit program (Yashar)
+- gitlab non-profit
 - markdownfiles + tailwindcss / next.ui 
 - podia as platform for trainings
 - 15.05.2024: no CRM tool but setup from Yashar > database to collect data from members / supporters and classify them into different categories
