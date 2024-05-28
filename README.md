@@ -29,7 +29,7 @@ VISIBILITY & CREATING AWARENESS FOR OS
 - marketplace (people can publish their project, 50 projects online)
 - trainings (people can publish their training, 50 trainings online)
 - newsletter (1 x per month from june)
-- community meet-ups (ifc openshell / onboarding Open Digital House?)
+- community meet-ups (ifc openshell / BIM: BIMtank / Computational Designer: Open Digital House?)
 - events (framing: Hackathon Munich / Poland, full programm: Zurich)
 
 Infrastructure:
