@@ -79,7 +79,7 @@ Early stage projects should also provide a simple "hello world" document (e.g. r
   
 / to dos
 - prototyping feature for website
-- setting up a list for existing and potential projects, that we can use to coordinate our efforts
+- setting up a [list](https://docs.google.com/spreadsheets/d/12nR368L2dX380t8Od_PQY_uUOHNJ6Ujym6mCeOBmcNM/edit?pli=1#gid=0) for existing and potential projects, that we can use to coordinate our efforts
 - improve [project template](https://docs.google.com/document/d/16Sg_zUKv6IMSYERHd8TGpSp9rsZBa7zWRt5YlcuByHE/edit?usp=sharing) with description of requirements and the tech process to provide information (manually with markdown template on GH or automated by providing a "special link"
 
 
